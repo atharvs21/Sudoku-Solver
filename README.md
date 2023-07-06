@@ -1,6 +1,6 @@
 # Sudoku-Solver
 
-`. Developed a Sudoku solver web application using JavaScript and implemented the backtracking algorithm to efficiently solve Sudoku puzzles.
+1. Developed a Sudoku solver web application using JavaScript and implemented the backtracking algorithm to efficiently solve Sudoku puzzles.
 2. Designed and implemented a user-friendly interface to input Sudoku puzzles and display the solved solutions using HTML, CSS, and JavaScript.
 3. Utilized the backtracking algorithm to efficiently explore possible solutions by systematically filling empty cells and backtracking when an incorrect value is encountered.
 4. Implemented a recursive function that efficiently traverses through the Sudoku grid, making valid and efficient decisions to find the correct solution.
